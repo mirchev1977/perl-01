@@ -1,4 +1,6 @@
-#!/usr/bin/perl -w
+#!/usr/bin/perl -
+
+# from internet
 
 open my $handle, '<', "data";
 chomp(my @lines = <$handle>);
